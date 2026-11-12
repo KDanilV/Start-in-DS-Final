@@ -30,7 +30,7 @@ numpy==1.23.5
 openpyxl==3.1.2
 packaging==23.1
 pandas==2.0.2
-Pillow==9.5.0
+Pillow==13.0.0
 platformdirs==3.5.1
 plotly==5.15.0
 prompt-toolkit==3.0.38
